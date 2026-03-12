@@ -4,7 +4,7 @@ import ProductsCompo from "./ProductsCompo";
 import UserCompo from "./UserCompo";
 
 function App() {
-  console.log("1::::");
+  console.log("2::::");
   return (
     <>
       <ProductsCompo />
